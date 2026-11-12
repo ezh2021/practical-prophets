@@ -1,24 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:pp="urn:practical-prophets:release:1" version="2.0">
 <channel>
+<pp:versionManifest>https://ezh2021.github.io/practical-prophets/versions.json</pp:versionManifest>
 <title>Practical Prophets</title>
 <description>Practical Prophets brings the Jewish Nevi'im to life as immersive narrative nonfiction grounded in the Hebrew Tanakh. Each episode stays within a single biblical book, with a separate narrator adding Jewish commentary, Hebrew language insights, and context. This working edition uses two AI voices; Hebrew pronunciation and source review continue.</description>
 <link>https://ezh2021.github.io/practical-prophets/</link><language>en</language>
 <copyright>© 2026 Practical Prophets. Original narrative and narration; Masoretic Hebrew and public-domain JPS 1917 consulted as source material.</copyright>
 <itunes:author>Practical Prophets</itunes:author><itunes:type>serial</itunes:type><itunes:summary>Practical Prophets brings the Jewish Nevi'im to life as immersive narrative nonfiction grounded in the Hebrew Tanakh. Each episode stays within a single biblical book, with a separate narrator adding Jewish commentary, Hebrew language insights, and context. This working edition uses two AI voices; Hebrew pronunciation and source review continue.</itunes:summary>
-<itunes:explicit>false</itunes:explicit><itunes:image href="https://ezh2021.github.io/practical-prophets/cover.png"/>
-<itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
-<itunes:category text="History"/>
+<itunes:explicit>false</itunes:explicit><itunes:image href="https://ezh2021.github.io/practical-prophets/cover.png" />
+<itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism" /></itunes:category>
+<itunes:category text="History" />
 <item>
 <title>The River and the Promise</title>
 <description>Joshua 1–5. After Moses dies, Joshua leads Israel to the Jordan. Rahab protects the scouts, Israel crosses the river, and the people celebrate Passover as the manna ends. Based on the Masoretic Hebrew Bible, with Jewish commentary in a distinct narrator voice. Content note: biblical warfare and violence.</description>
 <guid isPermaLink="false">practical-prophets-joshua-s01e01-2026</guid>
 <link>https://ezh2021.github.io/practical-prophets/episode-1.html</link>
 <pubDate>Thu, 12 Nov 2026 07:12:44 +0000</pubDate>
-<enclosure url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e01-joshua-01-to-05.mp3" length="30413612" type="audio/mpeg" />
+<enclosure url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e01-joshua-01-to-05.mp3?rev=v2-aff967d343a6" length="30413612" type="audio/mpeg" />
 <itunes:author>Practical Prophets</itunes:author><itunes:explicit>false</itunes:explicit>
 <itunes:season>1</itunes:season><itunes:episode>1</itunes:episode><itunes:episodeType>full</itunes:episodeType>
 <itunes:duration>1901</itunes:duration>
+<pp:audioVersion>2.0.0</pp:audioVersion><pp:releaseRevision>2026-11-12-r2</pp:releaseRevision><pp:sha256>aff967d343a68cd9f3fca554cba9c08cadb340142adcb03d9379cdc15be9fcaf</pp:sha256>
 <podcast:transcript url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e01-joshua-01-to-05.vtt" type="text/vtt" language="en" />
 <podcast:chapters url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e01-joshua-01-to-05.chapters.json" type="application/json+chapters" />
 </item>
@@ -28,10 +30,11 @@
 <guid isPermaLink="false">practical-prophets-joshua-s01e02-2026</guid>
 <link>https://ezh2021.github.io/practical-prophets/episode-2.html</link>
 <pubDate>Thu, 12 Nov 2026 16:20:00 +0000</pubDate>
-<enclosure url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e02-joshua-06-to-13.mp3" length="39692972" type="audio/mpeg" />
+<enclosure url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e02-joshua-06-to-13.mp3?rev=v2-495b87b86eda" length="39692972" type="audio/mpeg" />
 <itunes:author>Practical Prophets</itunes:author><itunes:explicit>false</itunes:explicit>
 <itunes:season>1</itunes:season><itunes:episode>2</itunes:episode><itunes:episodeType>full</itunes:episodeType>
 <itunes:duration>2481</itunes:duration>
+<pp:audioVersion>2.0.0</pp:audioVersion><pp:releaseRevision>2026-11-12-r2</pp:releaseRevision><pp:sha256>495b87b86edae2e10cc66fb02f3b1ee109965966c49f358dcbf6cce76629d3cf</pp:sha256>
 <podcast:transcript url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e02-joshua-06-to-13.vtt" type="text/vtt" language="en" />
 <podcast:chapters url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e02-joshua-06-to-13.chapters.json" type="application/json+chapters" />
 </item>
@@ -41,10 +44,11 @@
 <guid isPermaLink="false">practical-prophets-joshua-s01e03-2026</guid>
 <link>https://ezh2021.github.io/practical-prophets/episode-3.html</link>
 <pubDate>Thu, 12 Nov 2026 16:25:00 +0000</pubDate>
-<enclosure url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e03-joshua-14-to-24.mp3" length="43017260" type="audio/mpeg" />
+<enclosure url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e03-joshua-14-to-24.mp3?rev=v2-640c33d9c081" length="43017260" type="audio/mpeg" />
 <itunes:author>Practical Prophets</itunes:author><itunes:explicit>false</itunes:explicit>
 <itunes:season>1</itunes:season><itunes:episode>3</itunes:episode><itunes:episodeType>full</itunes:episodeType>
 <itunes:duration>2689</itunes:duration>
+<pp:audioVersion>2.0.0</pp:audioVersion><pp:releaseRevision>2026-11-12-r2</pp:releaseRevision><pp:sha256>640c33d9c0816773d069728471c9fef69dee38f0f3ed5a9587225e537c56d919</pp:sha256>
 <podcast:transcript url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e03-joshua-14-to-24.vtt" type="text/vtt" language="en" />
 <podcast:chapters url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e03-joshua-14-to-24.chapters.json" type="application/json+chapters" />
 </item>
