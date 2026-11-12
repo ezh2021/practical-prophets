@@ -1,2 +1,51 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>Practical Prophets</title><description>The Nevi'im, told as a compelling narrative. Practical Prophets retells the Jewish Bible's prophetic books as richly researched, novel-like nonfiction: the events, characters, political stakes and moral questions of Tanakh, grounded in the Hebrew text and Jewish tradition. Each 30–40-minute episode follows one prophet's story without mixing different prophets. A separate commentary voice explores Hebrew language, historical context and traditional interpretations. The biblical narrative remains the source; commentary and historical uncertainty are identified as such.</description><link>https://ezh2021.github.io/practical-prophets/</link><language>en</language><copyright>© 2026 Practical Prophets. Original narrative and narration; Hebrew Bible and public-domain JPS 1917 used as source material.</copyright><generator>Practical Prophets local narration pipeline, Kokoro MLX</generator><itunes:author>Practical Prophets</itunes:author><itunes:type>serial</itunes:type><itunes:summary>The Nevi'im, told as a compelling narrative. Practical Prophets retells the Jewish Bible's prophetic books as richly researched, novel-like nonfiction: the events, characters, political stakes and moral questions of Tanakh, grounded in the Hebrew text and Jewish tradition. Each 30–40-minute episode follows one prophet's story without mixing different prophets. A separate commentary voice explores Hebrew language, historical context and traditional interpretations. The biblical narrative remains the source; commentary and historical uncertainty are identified as such.</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:image href="https://ezh2021.github.io/practical-prophets/cover.png" /><itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism" /></itunes:category><itunes:category text="History" /><item><title>The River and the Promise</title><description>Joshua 1–5. Moses has died. Joshua must lead Israel across the Jordan and into the land. Two spies meet Rahab in Jericho, the river crossing transforms Joshua's standing, twelve stones preserve the story, and Israel's first Passover in Canaan marks the end of the wilderness era. Based on the Masoretic Hebrew Bible, with Jewish commentary presented in a distinct narrator voice. Content note: biblical conquest, conflict and references to violence.</description><guid isPermaLink="false">practical-prophets-joshua-s01e01-2026</guid><link>https://ezh2021.github.io/practical-prophets/episode-1.html</link><pubDate>Thu, 12 Nov 2026 07:12:44 +0000</pubDate><enclosure url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e01-joshua-01-to-05.mp3" length="29717420" type="audio/mpeg" /><itunes:author>Practical Prophets</itunes:author><itunes:explicit>false</itunes:explicit><itunes:season>1</itunes:season><itunes:episode>1</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:duration>1857</itunes:duration><podcast:transcript url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e01-joshua-01-to-05.vtt" type="text/vtt" language="en" /><podcast:chapters url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e01-joshua-01-to-05.chapters.json" type="application/json+chapters" /></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<channel>
+<title>Practical Prophets</title>
+<description>Practical Prophets brings the Jewish Nevi'im to life as immersive narrative nonfiction grounded in the Hebrew Tanakh. Each episode stays within a single biblical book, with a separate narrator adding Jewish commentary, Hebrew language insights, and context. This working edition uses two AI voices; Hebrew pronunciation and source review continue.</description>
+<link>https://ezh2021.github.io/practical-prophets/</link><language>en</language>
+<copyright>© 2026 Practical Prophets. Original narrative and narration; Masoretic Hebrew and public-domain JPS 1917 consulted as source material.</copyright>
+<itunes:author>Practical Prophets</itunes:author><itunes:type>serial</itunes:type><itunes:summary>Practical Prophets brings the Jewish Nevi'im to life as immersive narrative nonfiction grounded in the Hebrew Tanakh. Each episode stays within a single biblical book, with a separate narrator adding Jewish commentary, Hebrew language insights, and context. This working edition uses two AI voices; Hebrew pronunciation and source review continue.</itunes:summary>
+<itunes:explicit>false</itunes:explicit><itunes:image href="https://ezh2021.github.io/practical-prophets/cover.png"/>
+<itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+<itunes:category text="History"/>
+<item>
+<title>The River and the Promise</title>
+<description>Joshua 1–5. After Moses dies, Joshua leads Israel to the Jordan. Rahab protects the scouts, Israel crosses the river, and the people celebrate Passover as the manna ends. Based on the Masoretic Hebrew Bible, with Jewish commentary in a distinct narrator voice. Content note: biblical warfare and violence.</description>
+<guid isPermaLink="false">practical-prophets-joshua-s01e01-2026</guid>
+<link>https://ezh2021.github.io/practical-prophets/episode-1.html</link>
+<pubDate>Thu, 12 Nov 2026 07:12:44 +0000</pubDate>
+<enclosure url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e01-joshua-01-to-05.mp3" length="30413612" type="audio/mpeg" />
+<itunes:author>Practical Prophets</itunes:author><itunes:explicit>false</itunes:explicit>
+<itunes:season>1</itunes:season><itunes:episode>1</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>1901</itunes:duration>
+<podcast:transcript url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e01-joshua-01-to-05.vtt" type="text/vtt" language="en" />
+<podcast:chapters url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e01-joshua-01-to-05.chapters.json" type="application/json+chapters" />
+</item>
+<item>
+<title>Jericho and the Conquest</title>
+<description>Joshua 6–13. Previously on Joshua, followed by the fall of Jericho, the defeat and recovery at Ai, the Gibeonites' treaty, the southern and northern campaigns, and the land still awaiting possession. Based on the Hebrew Tanakh with Jewish context and commentary. Content note: biblical warfare and violence.</description>
+<guid isPermaLink="false">practical-prophets-joshua-s01e02-2026</guid>
+<link>https://ezh2021.github.io/practical-prophets/episode-2.html</link>
+<pubDate>Thu, 12 Nov 2026 16:20:00 +0000</pubDate>
+<enclosure url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e02-joshua-06-to-13.mp3" length="39692972" type="audio/mpeg" />
+<itunes:author>Practical Prophets</itunes:author><itunes:explicit>false</itunes:explicit>
+<itunes:season>1</itunes:season><itunes:episode>2</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>2481</itunes:duration>
+<podcast:transcript url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e02-joshua-06-to-13.vtt" type="text/vtt" language="en" />
+<podcast:chapters url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e02-joshua-06-to-13.chapters.json" type="application/json+chapters" />
+</item>
+<item>
+<title>The Land and the Covenant</title>
+<description>Joshua 14–24. Previously on Joshua, then Caleb claims Hebron, the tribes inherit land, an altar almost provokes civil war, and Joshua renews Israel's covenant at Shechem. Based on the Hebrew Tanakh with Jewish context and commentary. Content note: biblical warfare and violence.</description>
+<guid isPermaLink="false">practical-prophets-joshua-s01e03-2026</guid>
+<link>https://ezh2021.github.io/practical-prophets/episode-3.html</link>
+<pubDate>Thu, 12 Nov 2026 16:25:00 +0000</pubDate>
+<enclosure url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e03-joshua-14-to-24.mp3" length="43017260" type="audio/mpeg" />
+<itunes:author>Practical Prophets</itunes:author><itunes:explicit>false</itunes:explicit>
+<itunes:season>1</itunes:season><itunes:episode>3</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>2689</itunes:duration>
+<podcast:transcript url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e03-joshua-14-to-24.vtt" type="text/vtt" language="en" />
+<podcast:chapters url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e03-joshua-14-to-24.chapters.json" type="application/json+chapters" />
+</item>
+</channel></rss>

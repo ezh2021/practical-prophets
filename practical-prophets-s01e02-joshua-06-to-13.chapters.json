@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Previously on Practical Prophets"
+    },
+    {
+      "startTime": 31.2,
+      "title": "Joshua 6: A City That Would Not Open"
+    },
+    {
+      "startTime": 371.23,
+      "title": "Joshua 7: Thirty-Six Dead"
+    },
+    {
+      "startTime": 708.51,
+      "title": "Joshua 8: The Trap at Ai"
+    },
+    {
+      "startTime": 1048.84,
+      "title": "Joshua 9: The Bread That Lied"
+    },
+    {
+      "startTime": 1355.635,
+      "title": "Joshua 10: The Day the Sun Stood Still"
+    },
+    {
+      "startTime": 1698.27,
+      "title": "Joshua 11: The Northern Kings"
+    },
+    {
+      "startTime": 2015.625,
+      "title": "Joshua 12: Thirty-One Kings"
+    },
+    {
+      "startTime": 2219.695,
+      "title": "Joshua 13: The Map Was Not the Territory"
+    }
+  ]
+}
