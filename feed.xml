@@ -52,4 +52,32 @@
 <podcast:transcript url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e03-joshua-14-to-24.vtt" type="text/vtt" language="en" />
 <podcast:chapters url="https://ezh2021.github.io/practical-prophets/practical-prophets-s01e03-joshua-14-to-24.chapters.json" type="application/json+chapters" />
 </item>
+<item>
+<title>The Judges Who Rose and Fell</title>
+<description>Judges (Shoftim) chapters 1–11. After Joshua dies, Israel's leaders struggle with unfinished conquest. Othniel, Ehud, Deborah, Gideon and Jephthah become deliverers, and their victories lead to difficult consequences. Literary retelling of the Hebrew Tanakh with Jewish commentary in a second voice. Working edition with AI narration; source and pronunciation review ongoing. Biblical warfare and violence.</description>
+<guid isPermaLink="false">practical-prophets-judges-s02e01-2026</guid>
+<link>https://ezh2021.github.io/practical-prophets/#episode-4</link>
+<pubDate>Fri, 13 Nov 2026 06:45:00 +0000</pubDate>
+<enclosure url="https://ezh2021.github.io/practical-prophets/practical-prophets-s02e01-judges-01-to-11.mp3?rev=v1-4810612da87b" length="34210604" type="audio/mpeg" />
+<itunes:author>Practical Prophets</itunes:author><itunes:explicit>false</itunes:explicit>
+<itunes:season>2</itunes:season><itunes:episode>1</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>2138</itunes:duration>
+<pp:audioVersion>1.0.0</pp:audioVersion><pp:releaseRevision>2026-11-13-r3</pp:releaseRevision><pp:sha256>4810612da87ba417e5973d34673bcfb0220ddf3131c3d4da38c359492bd3c0de</pp:sha256>
+<podcast:transcript url="https://ezh2021.github.io/practical-prophets/practical-prophets-s02e01-judges-01-to-11.vtt" type="text/vtt" language="en" />
+<podcast:chapters url="https://ezh2021.github.io/practical-prophets/practical-prophets-s02e01-judges-01-to-11.chapters.json" type="application/json+chapters" />
+</item>
+<item>
+<title>Samson and a Nation Unraveling</title>
+<description>Judges (Shoftim) chapters 12–21. A Previously on recap leads into Ephraim's civil conflict, Samson's birth and death, the Danite migration, the crime at Gibeah and the near extinction of Benjamin. Literary retelling of the Hebrew Tanakh with Jewish commentary in a second voice. Working edition with AI narration; source and pronunciation review ongoing. Content warning: sexual assault, abduction and extensive violence.</description>
+<guid isPermaLink="false">practical-prophets-judges-s02e02-2026</guid>
+<link>https://ezh2021.github.io/practical-prophets/#episode-5</link>
+<pubDate>Fri, 13 Nov 2026 06:50:00 +0000</pubDate>
+<enclosure url="https://ezh2021.github.io/practical-prophets/practical-prophets-s02e02-judges-12-to-21.mp3?rev=v1-38bdb93d20ac" length="31093292" type="audio/mpeg" />
+<itunes:author>Practical Prophets</itunes:author><itunes:explicit>false</itunes:explicit>
+<itunes:season>2</itunes:season><itunes:episode>2</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<itunes:duration>1943</itunes:duration>
+<pp:audioVersion>1.0.0</pp:audioVersion><pp:releaseRevision>2026-11-13-r3</pp:releaseRevision><pp:sha256>38bdb93d20ac6233003caf45ae7f5949ef3414641910f3eecb37940a6d563747</pp:sha256>
+<podcast:transcript url="https://ezh2021.github.io/practical-prophets/practical-prophets-s02e02-judges-12-to-21.vtt" type="text/vtt" language="en" />
+<podcast:chapters url="https://ezh2021.github.io/practical-prophets/practical-prophets-s02e02-judges-12-to-21.chapters.json" type="application/json+chapters" />
+</item>
 </channel></rss>

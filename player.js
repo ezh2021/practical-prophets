@@ -2,7 +2,9 @@
 const media={
 1:{chap:"practical-prophets-s01e01-joshua-01-to-05.chapters.json",vtt:"practical-prophets-s01e01-joshua-01-to-05.vtt"},
 2:{chap:"practical-prophets-s01e02-joshua-06-to-13.chapters.json",vtt:"practical-prophets-s01e02-joshua-06-to-13.vtt"},
-3:{chap:"practical-prophets-s01e03-joshua-14-to-24.chapters.json",vtt:"practical-prophets-s01e03-joshua-14-to-24.vtt"}
+3:{chap:"practical-prophets-s01e03-joshua-14-to-24.chapters.json",vtt:"practical-prophets-s01e03-joshua-14-to-24.vtt"},
+4:{chap:"practical-prophets-s02e01-judges-01-to-11.chapters.json",vtt:"practical-prophets-s02e01-judges-01-to-11.vtt"},
+5:{chap:"practical-prophets-s02e02-judges-12-to-21.chapters.json",vtt:"practical-prophets-s02e02-judges-12-to-21.vtt"}
 };
 const allAudio=[...document.querySelectorAll("audio")];let speed=1;
 function sec(t){const a=t.trim().replace(",",".").split(":").map(Number);return a.length===3?a[0]*3600+a[1]*60+a[2]:a[0]*60+a[1]}

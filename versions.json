@@ -1,11 +1,9 @@
 {
   "schema_version": "1.0.0",
   "show": "Practical Prophets",
-  "season": 1,
-  "book": "Joshua",
-  "release_revision": "2026-11-12-r2",
-  "release_note": "No audio re-synthesis in this release; these are the already published, checksum-verified latest V2 audio masters, now with explicit hidden version metadata and cache-specific URLs.",
-  "updated_on": "2026-11-12",
+  "release_revision": "2026-11-13-r3",
+  "release_note": "Season 2 Judges published with two Kokoro episodes, chapter markers and transcripts. Season 1 audio unchanged.",
+  "updated_on": "2026-11-13",
   "feed_url": "https://ezh2021.github.io/practical-prophets/feed.xml",
   "versioning_policy": {
     "stable_episode_guid": "Episode GUID never changes when correcting/re-rendering an existing episode.",
@@ -50,7 +48,10 @@
           "sha256": "aff967d343a68cd9f3fca554cba9c08cadb340142adcb03d9379cdc15be9fcaf",
           "source_git_commit": "52f259602d86732498741949b2be7c6d7c65b6be"
         }
-      ]
+      ],
+      "season": 1,
+      "book": "Joshua",
+      "episode_in_season": 1
     },
     {
       "episode": 2,
@@ -76,7 +77,10 @@
           "sha256": "495b87b86edae2e10cc66fb02f3b1ee109965966c49f358dcbf6cce76629d3cf",
           "source_git_commit": "52f259602d86732498741949b2be7c6d7c65b6be"
         }
-      ]
+      ],
+      "season": 1,
+      "book": "Joshua",
+      "episode_in_season": 2
     },
     {
       "episode": 3,
@@ -102,7 +106,58 @@
           "sha256": "640c33d9c0816773d069728471c9fef69dee38f0f3ed5a9587225e537c56d919",
           "source_git_commit": "52f259602d86732498741949b2be7c6d7c65b6be"
         }
-      ]
+      ],
+      "season": 1,
+      "book": "Joshua",
+      "episode_in_season": 3
+    },
+    {
+      "episode": 1,
+      "season": 2,
+      "book": "Judges",
+      "guid": "practical-prophets-judges-s02e01-2026",
+      "title": "The Judges Who Rose and Fell",
+      "chapters": "Judges 1–11",
+      "filename": "practical-prophets-s02e01-judges-01-to-11.mp3",
+      "sha256": "4810612da87ba417e5973d34673bcfb0220ddf3131c3d4da38c359492bd3c0de",
+      "bytes": 34210604,
+      "duration_seconds": 2138.105,
+      "audio_version": "1.0.0",
+      "renderer": "kokoro-mlx",
+      "revision_notes": "Local Kokoro two-voice narration, working edition; source and Hebrew pronunciation audits ongoing.",
+      "episode_in_season": 1,
+      "enclosure_url": "https://ezh2021.github.io/practical-prophets/practical-prophets-s02e01-judges-01-to-11.mp3?rev=v1-4810612da87b"
+    },
+    {
+      "episode": 2,
+      "season": 2,
+      "book": "Judges",
+      "guid": "practical-prophets-judges-s02e02-2026",
+      "title": "Samson and a Nation Unraveling",
+      "chapters": "Judges 12–21",
+      "filename": "practical-prophets-s02e02-judges-12-to-21.mp3",
+      "sha256": "38bdb93d20ac6233003caf45ae7f5949ef3414641910f3eecb37940a6d563747",
+      "bytes": 31093292,
+      "duration_seconds": 1943.265,
+      "audio_version": "1.0.0",
+      "renderer": "kokoro-mlx",
+      "revision_notes": "Two-voice local Kokoro narration plus factual recap; working edition; source audit pending.",
+      "episode_in_season": 2,
+      "enclosure_url": "https://ezh2021.github.io/practical-prophets/practical-prophets-s02e02-judges-12-to-21.mp3?rev=v1-38bdb93d20ac"
+    }
+  ],
+  "seasons": [
+    {
+      "season": 1,
+      "book": "Joshua",
+      "chapters": 24,
+      "episodes": 3
+    },
+    {
+      "season": 2,
+      "book": "Judges",
+      "chapters": 21,
+      "episodes": 2
     }
   ]
 }
